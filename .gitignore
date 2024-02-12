@@ -1,0 +1,6 @@
+.env
+.idea
+node_modules
+volumes
+package-lock.json
+yarn.lock
